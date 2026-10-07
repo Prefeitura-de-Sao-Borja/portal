@@ -28,10 +28,10 @@ Este projeto está licenciado sob a [GNU General Public License v3.0](https://ww
 #### Coordenação e Desenvolvimento
 
 - **RENAN STRECK DONATO** - Coordenador do Projeto e Desenvolvedor  
-  Matrícula: 21.884/2026 | Técnico em Informática - M 1618
+  Decreto nº: 21.884/2026 | Técnico em Informática - M 1618
 
-- **JOAO PEDRO VOLPATO RAMBO** - Estagiário em TI - N3  
-  IFFAR
+- **JOAO PEDRO VOLPATO RAMBO** - Desenvolvedor
+Estagiário em TI - N3  |  IFFAR São Borja - Sistemas de Informação
 
 #### Equipe da Coordenadoria de Inovação
 
@@ -46,7 +46,17 @@ Este projeto está licenciado sob a [GNU General Public License v3.0](https://ww
 
 - **ALESSANDRO DORNELLES** - Técnico em Informática
 
+- **JOÃO NUNES TAVARES** - Serviços Gerais
+
+#### Coordenadoria de Inovação - SMDECTI (Secretaria de Desenvolvimento Econômico, Cultura, Turismo e Inovação)
+
+- **ENEDIR PINTO RAMIRES** - Secretário Municipal
+- **RENAN STRECK DONATO** - Coordenador de Desenvolvimento Econômico e Inovação
+
 ---
 
 **Última atualização:** Outubro de 2026  
 **Status:** Desenvolvimento Ativo
+
+
+DESEJA CONHECER O PROJETO? ENTRE EM CONTATO CONOSCO EM ci@saoborja.rs.gov.br ou (55)98408.9806
